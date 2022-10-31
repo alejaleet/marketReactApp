@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    padding-top: 15px;
+    justify-content: space-between;
+}
+
+.logo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #101010;
+}
+
+button{
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    color: black;
+}
+
+.corzina{
+    margin-left: 45px;
+}
+.nameCard{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 130px;
+    margin-bottom: 10px;
+}
